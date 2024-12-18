@@ -1,2 +1,2 @@
 # golang
-repo
+repo Telugu skill hub
